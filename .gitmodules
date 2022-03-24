@@ -1,0 +1,6 @@
+[submodule "FrameworkPt5"]
+	path = FrameworkPt5
+	url = https://github.com/daysri/FrameworkPt5
+[submodule "FrameworkPt6"]
+	path = FrameworkPt6
+	url = https://github.com/daysri/FrameworkPt6
