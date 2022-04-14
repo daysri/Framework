@@ -7,3 +7,6 @@
 [submodule "FrameworkPt7"]
 	path = FrameworkPt7
 	url = https://github.com/daysri/FrameworkPt7
+[submodule "FrameworkPt9"]
+	path = FrameworkPt9
+	url = https://github.com/daysri/FrameworkPt9
